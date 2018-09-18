@@ -1,0 +1,17 @@
+﻿Build started 15.10.2012 19:28:09.
+Project "C:\my\ball_test\ball_library\ball_library.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\ball_library.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  All outputs are up-to-date.
+Lib:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\my\ball_test\Debug\ball_library.lib" /NOLOGO Debug\ball_gravity.obj
+  ball_library.vcxproj -> C:\my\ball_test\Debug\ball_library.lib
+FinalizeBuildStatus:
+  Deleting file "Debug\ball_library.unsuccessfulbuild".
+  Touching "Debug\ball_library.lastbuildstate".
+Done Building Project "C:\my\ball_test\ball_library\ball_library.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.71
